@@ -19,7 +19,7 @@ Your final report should include each of the following:
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
-* Total Revenue
+* Total Revenue   
 
 ### Gender Demographics
 
